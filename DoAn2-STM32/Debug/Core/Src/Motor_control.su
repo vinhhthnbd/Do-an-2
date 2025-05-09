@@ -1,0 +1,5 @@
+../Core/Src/Motor_control.c:16:6:readEncoder	32	static
+../Core/Src/Motor_control.c:40:6:resetDeltaRoundDistance	16	static
+../Core/Src/Motor_control.c:49:6:motorControl1	24	static
+../Core/Src/Motor_control.c:91:6:motorControl2	24	static
+../Core/Src/Motor_control.c:144:6:pidMotorControl	24	static

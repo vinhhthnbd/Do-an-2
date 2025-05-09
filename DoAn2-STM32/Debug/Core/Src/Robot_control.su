@@ -1,0 +1,4 @@
+../Core/Src/Robot_control.c:19:6:calculatePredictionValue	32	static
+../Core/Src/Robot_control.c:32:6:resetDeltaValue	24	static
+../Core/Src/Robot_control.c:52:6:PCFrameReceiveHandler	64	static
+../Core/Src/Robot_control.c:98:6:BluetoothFrameHandler	24	static
